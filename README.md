@@ -45,8 +45,8 @@
 
 **English:**
 
-- **Releases**: [Releases](https://github.com/Frici001/GammaLauncher/releases) — all versions of the launcher.
+- **Releases**: [Tg-Bot](https://t.me/GammaLauncher_Bot)
 
 **Русский:**
 
-- **Релизы**: [Releases](https://github.com/Frici001/GammaLauncher/releases) — все версии лаунчера.
+- **Релизы**: [Tg-Bot](https://t.me/GammaLauncher_Bot)
