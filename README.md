@@ -45,8 +45,8 @@
 
 **English:**
 
-- **Releases**: [Tg-Bot](https://t.me/GammaLauncher_Bot)
+- **Releases**: [Tg](https://t.me/GammaLauncher)
 
 **Русский:**
 
-- **Релизы**: [Tg-Bot](https://t.me/GammaLauncher_Bot)
+- **Релизы**: [Tg](https://t.me/GammaLauncher)
